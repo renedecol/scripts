@@ -5,4 +5,5 @@ some of my scripts
 * mymainline.sh - take the latest stable kernel, use the actual configuration and create deb packages
 * zahl.py - displaying bits in a given number, bit toggle when needed
 * lips.sh - Local IPs, who is around 
+* wuerfel.sh - recieve some randum numbers
 
