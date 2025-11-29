@@ -15,7 +15,7 @@ cmd=${args[0]}
 case $cmd in
   m)
     echo more
-    sudo nmap 192.168.0.0/24 | grep -v latency | grep -v closed | grep -v SERVICE | grep -v adresses
+    sudo nmap  ${a1}.${a2}.${a3}.0/24 | grep -v latency | grep -v closed | grep -v SERVICE | grep -v adresses
     ;;
 
   h)
